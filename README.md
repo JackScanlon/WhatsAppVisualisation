@@ -16,5 +16,6 @@
  - [X] Frequency and date analysis
  - [X] Analysis of message content
  - [X] Sentiment analysis using ported ml-sentiment module
+ - [X] Data visualisation components
  - [X] 1st production build
  - [ ] LDA topic analysis
