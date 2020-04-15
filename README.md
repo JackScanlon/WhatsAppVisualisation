@@ -21,3 +21,4 @@ OR
  - [X] Data visualisation components
  - [X] 1st production build
  - [ ] LDA topic analysis
+ - [ ] Create own WordCloud.js component, current module not fit for purpose
