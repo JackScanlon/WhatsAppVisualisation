@@ -4,7 +4,7 @@
 #### Project:
 
  - After seeing [this image on _/r/dataisbeautiful_](https://i.redd.it/oz38c0yc8lt31.png) I decided to try my hand at creating a ReactJS app to do the same for myself and to practice computational linguistics
- - In hindsight, I would have preferred to have created this in Python as it would have allowed me to explore more NLP and ML techniques
+ - In hindsight, I would have preferred to have created this in Python as it would have allowed me to explore the data further using NLP and ML
 
 #### Run instructions:
  - Download *chat.txt* file from WhatsApp application on iOS or Android
