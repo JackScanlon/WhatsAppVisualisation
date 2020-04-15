@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WhatsAppVisualisation/static/css/main.ec29383b.chunk.css",
+    "main.js": "/WhatsAppVisualisation/static/js/main.0fe17a1f.chunk.js",
+    "main.js.map": "/WhatsAppVisualisation/static/js/main.0fe17a1f.chunk.js.map",
+    "runtime-main.js": "/WhatsAppVisualisation/static/js/runtime-main.d5511a16.js",
+    "runtime-main.js.map": "/WhatsAppVisualisation/static/js/runtime-main.d5511a16.js.map",
+    "static/js/2.dad70e29.chunk.js": "/WhatsAppVisualisation/static/js/2.dad70e29.chunk.js",
+    "static/js/2.dad70e29.chunk.js.map": "/WhatsAppVisualisation/static/js/2.dad70e29.chunk.js.map",
+    "index.html": "/WhatsAppVisualisation/index.html",
+    "precache-manifest.f1dd22888097bba20c6423de45a347eb.js": "/WhatsAppVisualisation/precache-manifest.f1dd22888097bba20c6423de45a347eb.js",
+    "service-worker.js": "/WhatsAppVisualisation/service-worker.js",
+    "static/css/main.ec29383b.chunk.css.map": "/WhatsAppVisualisation/static/css/main.ec29383b.chunk.css.map",
+    "static/js/2.dad70e29.chunk.js.LICENSE.txt": "/WhatsAppVisualisation/static/js/2.dad70e29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5511a16.js",
+    "static/js/2.dad70e29.chunk.js",
+    "static/css/main.ec29383b.chunk.css",
+    "static/js/main.0fe17a1f.chunk.js"
+  ]
+}
