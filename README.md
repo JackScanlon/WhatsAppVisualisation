@@ -8,7 +8,7 @@
 
 #### Run instructions:
  - Try it out [on the demo page here](https://jackscanlon.github.io/WhatsAppVisualisation/)
- OR
+OR
  - Download *chat.txt* file from WhatsApp application on iOS or Android
  - After `npm test` or `npm build` -> select the aforementioned .txt file
 
