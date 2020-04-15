@@ -7,6 +7,8 @@
  - In hindsight, I would have preferred to have created this in Python as it would have allowed me to explore the data further using NLP and ML
 
 #### Run instructions:
+ - Try it out [on the demo page here](https://jackscanlon.github.io/WhatsAppVisualisation/)
+ OR
  - Download *chat.txt* file from WhatsApp application on iOS or Android
  - After `npm test` or `npm build` -> select the aforementioned .txt file
 
