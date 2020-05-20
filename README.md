@@ -14,6 +14,10 @@ OR
 
 *Please note: Does not have group chat functionality*
 
+#### Example:
+
+![Example](https://i.ibb.co/THTt1hD/img.png)
+
 #### To do:
  - [X] Frequency and date analysis
  - [X] Analysis of message content
